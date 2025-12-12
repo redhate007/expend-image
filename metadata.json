@@ -1,0 +1,5 @@
+{
+  "name": "Copy of ExpandAI - Image Outpainting",
+  "description": "Expand your images seamlessly using Gemini 2.5 Flash. Upload an image, adjust the canvas size, and let AI fill in the rest.",
+  "requestFramePermissions": []
+}
